@@ -9,4 +9,3 @@ function logShout(string) {
 }
 
 logShout('hello');
-
